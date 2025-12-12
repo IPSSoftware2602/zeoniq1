@@ -1,0 +1,38 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 637 645" width="637" height="645">
+	<title>Group 1000002285</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m17 281h37v38h-37z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #dbd3fe } 
+		.s1 { fill: #ea7343 } 
+		.s2 { fill: none;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.5 } 
+		.s3 { fill: #866bf0 } 
+		.s4 { fill: #ff9797 } 
+		.s5 { fill: #97a1ff } 
+		.s6 { fill: #75e895 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m333 644c-167.8 0-303.5-135.7-303.5-303.5 0-167.8 135.7-303.5 303.5-303.5 167.8 0 303.5 135.7 303.5 303.5 0 167.8-135.7 303.5-303.5 303.5z"/>
+	<g>
+		<path fill-rule="evenodd" class="s1" d="m36.5 334.5c-19.1 0-34.5-15.4-34.5-34.5 0-19.1 15.4-34.5 34.5-34.5 19.1 0 34.5 15.4 34.5 34.5 0 19.1-15.4 34.5-34.5 34.5z"/>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path class="s2" d="m35.5 317.1c9.4 0 17.1-7.7 17.1-17.1 0-9.4-7.7-17.1-17.1-17.1-9.4 0-17.1 7.7-17.1 17.1 0 9.4 7.7 17.1 17.1 17.1z"/>
+			<path class="s2" d="m18.4 300h34.2"/>
+			<path class="s2" d="m35.5 282.9c4.3 4.7 6.7 10.8 6.8 17.1-0.1 6.3-2.5 12.4-6.8 17.1-4.3-4.7-6.7-10.8-6.8-17.1 0.1-6.3 2.5-12.4 6.8-17.1z"/>
+		</g>
+	</g>
+	<g>
+		<path fill-rule="evenodd" class="s3" d="m367.5 71c-19.1 0-34.5-15.4-34.5-34.5 0-19.1 15.4-34.5 34.5-34.5 19.1 0 34.5 15.4 34.5 34.5 0 19.1-15.4 34.5-34.5 34.5z"/>
+	</g>
+	<path class="s2" d="m380 21h-24c-1.7 0-3 1.3-3 3v6c0 1.7 1.3 3 3 3h24c1.7 0 3-1.3 3-3v-6c0-1.7-1.3-3-3-3z"/>
+	<path class="s2" d="m380 39h-24c-1.7 0-3 1.3-3 3v6c0 1.7 1.3 3 3 3h24c1.7 0 3-1.3 3-3v-6c0-1.7-1.3-3-3-3z"/>
+	<path class="s2" d="m359 27"/>
+	<path class="s2" d="m359 45"/>
+	<path fill-rule="evenodd" class="s4" d="m147.5 108.5c-4.1 0-7.5-3.4-7.5-7.5 0-4.1 3.4-7.5 7.5-7.5 4.1 0 7.5 3.4 7.5 7.5 0 4.1-3.4 7.5-7.5 7.5z"/>
+	<path fill-rule="evenodd" class="s5" d="m604.5 207.5c-4.1 0-7.5-3.4-7.5-7.5 0-4.1 3.4-7.5 7.5-7.5 4.1 0 7.5 3.4 7.5 7.5 0 4.1-3.4 7.5-7.5 7.5z"/>
+	<path fill-rule="evenodd" class="s6" d="m82.5 521.5c-4.2 0-7.5-3.4-7.5-7.5 0-4.1 3.3-7.5 7.5-7.5 4.1 0 7.5 3.4 7.5 7.5 0 4.1-3.4 7.5-7.5 7.5z"/>
+</svg>

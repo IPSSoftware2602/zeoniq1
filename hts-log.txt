@@ -1,0 +1,27 @@
+HTTrack3.49-2 launched on Fri, 12 Dec 2025 10:11:38 at https://teknify.webflow.io/home-two +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://teknify.webflow.io/home-two -O "/Users/chongcy/websites/Zeoniq1" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:13:24	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://teknify.webflow.io/home-two)
+10:13:25	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://teknify.webflow.io/home-two)
+10:13:33	Warning: 	Retry after error 502 (Bad Gateway) at link https://teknify.webflow.io/ (from https://teknify.webflow.io/home-two)
+10:18:15	Warning: 	Retry after error 502 (Bad Gateway) at link https://teknify.webflow.io/ (from https://teknify.webflow.io/home-two)
+10:18:17	Error: 	"Bad Gateway" (502) after 2 retries at link https://teknify.webflow.io/ (from https://teknify.webflow.io/home-two)
+10:18:17	Warning: 	Retry after error 502 (Bad Gateway) at link https://teknify.webflow.io/blog-one?71e16a16_page=1 (from https://teknify.webflow.io/blog-one?71e16a16_page=2)
+10:18:17	Warning: 	Retry after error 502 () at link https://teknify.webflow.io/blog-one?71e16a16_page=1 (from https://teknify.webflow.io/blog-one?71e16a16_page=2)
+10:18:17	Error: 	"" (502) after 2 retries at link https://teknify.webflow.io/blog-one?71e16a16_page=1 (from https://teknify.webflow.io/blog-one?71e16a16_page=2)
+10:18:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6760feb1dd836b3d80343455
+10:18:35	Warning: 	HTML file (63264 bytes) retransferred due to lack of cache: https://teknify.webflow.io/product/basic-plan
+10:26:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://img.freepik.com/free-photo/confident-young-woman-with-brown-hair-looking-camera-indoors-generated-by-artificial-intelligence_25030-67362.jpg
+10:27:06	Warning: 	HTML file (52439 bytes) retransferred due to lack of cache: https://teknify.webflow.io/blog-details/practical-solutions-to-advance-your-tech-expertise-step-by-step
+10:27:15	Warning: 	HTML file (52434 bytes) retransferred due to lack of cache: https://teknify.webflow.io/blog-details/master-technology-with-consistent-and-easy-to-apply-techniques
+10:27:17	Warning: 	HTML file (55760 bytes) retransferred due to lack of cache: https://teknify.webflow.io/knowledge-base/what-are-the-key-benefits-of-automation
+10:27:18	Warning: 	HTML file (122 bytes) retransferred due to lack of cache: https://teknify.webflow.io/
+10:27:19	Error: 	"Bad Gateway" (502) after 2 retries at link https://teknify.webflow.io/ (from https://teknify.webflow.io/home-two)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 41 seconds : 411 links scanned, 477 files written (26908149 bytes overall) [12328109 bytes received at 13101 bytes/sec], 6463998 bytes transferred using HTTP compression in 247 files, ratio 22%, 4.3 requests per connection
+(5 errors, 11 warnings, 0 messages)
